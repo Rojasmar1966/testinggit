@@ -14,7 +14,7 @@ p = 1
 while p <= 100:
   print lotery(1,75,5)
   p = p+1
-
+print "we need to add the megaball"
 
 comb1 = list(itertools.combinations(range(1,5),3))
 comb2 = []
